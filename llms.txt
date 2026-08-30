@@ -1,0 +1,36 @@
+# Croki
+
+> Croki est une plateforme française permettant de découvrir des food trucks et commerces alimentaires à proximité, consulter leurs cartes et horaires et commander en click & collect.
+
+## Découvrir
+
+- [Découvrir Croki](https://croki.tech/decouvrir)
+- [Explorer](https://croki.tech/explore)
+- [Food trucks](https://croki.tech/foodtrucks)
+- [Food trucks à Vesoul](https://croki.tech/foodtrucks/vesoul)
+- [Food trucks à Paris](https://croki.tech/foodtrucks/paris)
+- [Food trucks en Haute-Saône](https://croki.tech/foodtrucks/haute-saone)
+- [Commerces à Lyon](https://croki.tech/restaurants/lyon)
+- [Lyon](https://croki.tech/city/lyon)
+- [Vesoul](https://croki.tech/city/vesoul)
+- [Paris](https://croki.tech/city/paris)
+
+## Établissements
+
+- [Chez Sable (Lyon)](https://croki.tech/establishment/chez-sable)
+- [Le Smash de Vesoul (Vesoul)](https://croki.tech/establishment/foodtruck-demo-croki)
+- [Pause Pain (Paris)](https://croki.tech/establishment/pause-pain)
+
+## Cuisines
+
+- [Sandwich à Lyon](https://croki.tech/category/sandwich/lyon)
+- [Burger à Vesoul](https://croki.tech/category/burger/vesoul)
+- [Boulangerie à Paris](https://croki.tech/category/bakery/paris)
+
+## À propos
+
+- [Comment fonctionne Croki](https://croki.tech/decouvrir)
+- [Pour les professionnels](https://croki.tech/commercants)
+- [Mentions légales](https://croki.tech/legal)
+
+Sitemap : https://croki.tech/sitemap.xml
